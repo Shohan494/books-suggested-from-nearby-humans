@@ -8,4 +8,9 @@
 - you are done and you are awesome :smile:
 
  - [ ] সবার জন্য পি এইচ পি ৭ প্রোগ্রামিং ল্যাংগুয়েজ
+ - [0] 7 habits of highly effective people
+ - [1] Mindset
+ - [2] Start with Why
+ - [3] Think and grow rich
+ - [4] Mini habits
 
