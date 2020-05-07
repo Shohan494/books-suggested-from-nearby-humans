@@ -9,4 +9,5 @@
 #### you are done and you are awesome :smile:
 
  - [ ] সবার জন্য পি এইচ পি ৭ প্রোগ্রামিং ল্যাংগুয়েজ
-
+ - [ ] অ্যালগরিদম ডিজাইন, লেখকঃ অরিন্দম পাল 
+ - [ ] PHP 7 Data Structures and Algorithms by  Mizanur Rahman
